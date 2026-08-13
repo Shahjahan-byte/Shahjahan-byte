@@ -2,17 +2,17 @@
 <div align="center">
 
 <a href="https://github.com/Shahjahan-byte">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahjahan-byte&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Shahjahan GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahjahan-byte&show_icons=true&include_all_commits=true&count_private=true&theme=dark" alt="Md Kasif Uddin's GitHub Stats" />
 </a>
 <a href="https://github.com/Shahjahan-byte">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahjahan-byte&theme=dark" alt="Shahjahan GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahjahan-byte&theme=dark" alt="Md Kasif Uddin's GitHub Streak" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/Shahjahan-byte">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahjahan-byte&layout=compact&theme=dark" alt="Shahjahan Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahjahan-byte&layout=compact&theme=dark" alt="Md Kasif Uddin's Top Languages" />
 </a>
 
 </div>
