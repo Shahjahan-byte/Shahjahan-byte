@@ -28,7 +28,7 @@
 - 💡 I love architecting clean, scalable, and performant applications
 - ⚡ Comfortable across the **entire stack** — frontend, backend, databases & DevOps
 - 🎯 Goal: Build software that's fast, elegant, and genuinely useful
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **sshahjahand@gmail.com**
 - 🧠 Fun fact: I debug faster than I make coffee ☕
 
 <br clear="right"/>
